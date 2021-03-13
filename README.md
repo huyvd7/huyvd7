@@ -26,7 +26,7 @@ Incoming...
 
 -----------------------------------
 <div align="center">
-Thanks for visiting! A joke before you go 😄  
+Thanks for visiting! A random joke before you go 😄  
 <div><img src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card" /></div>
 <div> 
   <div>Visitor Count</div>
