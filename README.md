@@ -17,7 +17,7 @@ Final year Master's student at Graph and Image Signal Processing (GISP) lab at Y
 Accepted to ICASSP'21. While deep learning (DL) architectures like convolutional neural networks (CNNs) have enabled effective solutions in image denoising, in general their implementations overly rely on training data and require tuning of a large parameter set. DeepGTV is a hybrid design that combines graph signal filtering with deep feature learning. It utilizes interpretable analytical low-pass graph filters and employs 80% fewer network parameters than state-of-the-art DL denoising scheme DnCNN. Experimental results show that in the case of statistical mistmatch, this method outperformed DnCNN by up to 3dB in PSNR.
 
 #### [DeepGLR PyTorch Implementation](https://github.com/huyvd7/pytorch-deepglr)
-An implemetation of DeepGLR in PyTorch. DeepGLR is a denoising method that combines CNNs with Graph Signal Processing. Published in CVPR'19. It outperformed state-of-the-art CNN approaches by a remarkable margin in statistical mismatch cases. Source: [ArXiv](https://arxiv.org/abs/1807.11637) | [IEEE](https://ieeexplore.ieee.org/document/9025512)
+An implemetation of DeepGLR in PyTorch. DeepGLR is a denoising method that combines CNNs with Graph Signal Processing. Published in CVPR'19. It outperformed state-of-the-art CNN approaches by a remarkable margin in statistical mismatch cases. Source: [ArXiv](https://arxiv.org/abs/1807.11637) | [IEEE](https://ieeexplore.ieee.org/document/9025512).
 
 #### Motorbike Image Generation with LSGAN
 
