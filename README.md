@@ -1,4 +1,4 @@
-# Welcome!
+# About me
 Final year Master's student at Graph and Image Signal Processing (GISP) lab at York University, Toronto. My research focus is on combining deep learning with graph signal processing to solve various image processing tasks. Before joining YorkU, I was a Data Scientist at a big telecom company, where I leveraged data-driven algorithms to detect anomaly network issues. 
 
 <div align="center">
