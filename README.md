@@ -8,9 +8,11 @@
 </div>
 
 
-
+# 
 
 
 <div align="center">
-<a><img src=https://profile-counter.glitch.me/huyvd7/count.svg /></a>
+  
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src=https://profile-counter.glitch.me/huyvd7/count.svg />
 </div>
