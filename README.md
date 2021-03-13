@@ -14,6 +14,7 @@
 <div align="center">
 Thanks for visiting! A joke before you go 😄  
 <div><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
-<div> Visitor Count
+<div> 
+  <div>Visitor Count</div>
 <img src=https://profile-counter.glitch.me/huyvd7/count.svg /></div>
 </div>
