@@ -13,6 +13,7 @@
 
 <div align="center">
   
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<img src=https://profile-counter.glitch.me/huyvd7/count.svg />
+<div><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
+<div>
+<img src=https://profile-counter.glitch.me/huyvd7/count.svg /></div>
 </div>
