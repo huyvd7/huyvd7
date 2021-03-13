@@ -20,8 +20,8 @@ Accepted to ICASSP'21. [ArXiv](https://arxiv.org/abs/2010.11290). While deep lea
 #### [DeepGLR PyTorch Implementation](https://github.com/huyvd7/pytorch-deepglr)
 An implemetation of DeepGLR in PyTorch. DeepGLR is a denoising method that combines CNNs with Graph Signal Processing. Published in CVPR'19. It outperformed state-of-the-art CNN approaches by a remarkable margin in statistical mismatch cases. Source: [ArXiv](https://arxiv.org/abs/1807.11637) | [IEEE](https://ieeexplore.ieee.org/document/9025512).
 
-#### [Motorbike Image Generation with LSGAN](https://github.com/huyvd7)
-...
+#### [Motorbike Image Generation with LSGAN](https://github.com/huyvd7/lsgan-motorbike)
+In this work, the spectral normalization technique is applied to LSGANS to synthesize new motorbike color images. Results of this project might help researchers who are working on traffic recognition systems that need to recognize motorbikes, especially research in Vietnam. In fact, motorcycles are essential parts of Vietnamese daily lives because they are the main transportation vehicles there.
 
 
 -----------------------------------
