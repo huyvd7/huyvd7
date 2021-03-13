@@ -1,6 +1,6 @@
 
 <div align="center">
-<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=huyvd7&theme=solarized-light&show_icons=true&custom_title=Huyvd7%20GitHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="huyvd7" />
+<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=huyvd7&theme=nord&show_icons=true&custom_title=Huyvd7%20GitHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="huyvd7" />
 </p>  
   
 <div align="center">
@@ -20,3 +20,9 @@ Thanks for visiting! A joke before you go 😄
   <div>Visitor Count</div>
 <img src=https://profile-counter.glitch.me/huyvd7/count.svg /></div>
 </div>
+
+
+<!--
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+-->
+
