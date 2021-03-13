@@ -12,6 +12,7 @@ Final year Master's student at Graph and Image Signal Processing (GISP) lab at Y
 </div>
 
 
+-----------------------------------
 # Projects
 #### [Research: Deep Graph Total Variation for Image Denoising](https://github.com/huyvd7/deepgtv)
 Accepted to ICASSP'21. While deep learning (DL) architectures like convolutional neural networks (CNNs) have enabled effective solutions in image denoising, in general their implementations overly rely on training data and require tuning of a large parameter set. DeepGTV is a hybrid design that combines graph signal filtering with deep feature learning. It utilizes interpretable analytical low-pass graph filters and employs 80% fewer network parameters than state-of-the-art DL denoising scheme DnCNN. Experimental results show that in the case of statistical mistmatch, this method outperformed DnCNN by up to 3dB in PSNR.
@@ -23,6 +24,7 @@ An implemetation of DeepGLR in PyTorch. DeepGLR is a denoising method that combi
 Incoming...
 
 
+-----------------------------------
 <div align="center">
 Thanks for visiting! A joke before you go 😄  
 <div><img src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card" /></div>
