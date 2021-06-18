@@ -1,4 +1,4 @@
-# About me
+# Short Bio
 Huy is currently an Applied Science Intern in the Alexa Science Team at Amazon, where he is working on natural language processing. He holds a Master of Applied Science in Electrical and Computer Engineering from York University, Toronto. His Master's thesis was nominated for the "Best Thesis Award".
 
 At York University, his research focus was on combining deep learning with graph signal processing to solve various image processing tasks. Prior to his study at York, he was a Data Scientist at a big telecom company, where he leveraged data-driven algorithms to detect anomaly network issues.
