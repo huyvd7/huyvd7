@@ -1,5 +1,9 @@
 # About me
-Final year Master's student at Graph and Image Signal Processing (GISP) lab at York University, Toronto. My research focus is on combining deep learning with graph signal processing to solve various image processing tasks. Before joining YorkU, I was a Data Scientist at a big telecom company, where I leveraged data-driven algorithms to detect anomaly network issues. 
+Huy is currently an Applied Science Intern in the Alexa Science Team at Amazon, where he is working on natural language processing. He holds a Master of Applied Science in Electrical and Computer Engineering from York University, Toronto. His Master's thesis was nominated for the "Best Thesis Award".
+
+At York University, his research focus was on combining deep learning with graph signal processing to solve various image processing tasks.
+
+Prior to his study at York, he was a Data Scientist at a big telecom company, where he leveraged data-driven algorithms to detect anomaly network issues.
 
 <div align="center">
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=huyvd7&theme=ayu-mirage&show_icons=true&custom_title=Huyvd7%20GitHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="huyvd7" />
