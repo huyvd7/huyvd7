@@ -3,17 +3,6 @@ Huy was an Applied Scientist in the Alexa Science Team at Amazon, where he worke
 
 At York University, his research focus was on combining deep learning with graph signal processing to solve various image processing tasks. Prior to his study at York, he was a Data Scientist at a big telecom company, where he leveraged data-driven algorithms to detect anomaly network issues.
 
-<div align="center">
-<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=huyvd7&theme=ayu-mirage&show_icons=true&custom_title=Huyvd7%20GitHub%20Stats&include_all_commits=true&hide=issues,contribs&count_private=true" alt="huyvd7" />
-</p>  
-  
-<div align="center">
-<a href="https://www.linkedin.com/in/huyvu7495/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width=200px height=50px /></a>
-<a href="mailto:huyvu@cse.yorku.ca" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" width=200px height=50px  /></a> 
-  </div>
-</div>
-
-
 # Projects
 #### [Research: Deep Graph Total Variation for Image Denoising](https://github.com/huyvd7/deepgtv)
 Accepted to ICASSP'21. [ArXiv](https://arxiv.org/abs/2010.11290). While deep learning (DL) architectures like convolutional neural networks (CNNs) have enabled effective solutions in image denoising, in general their implementations overly rely on training data and require tuning of a large parameter set. DeepGTV is a hybrid design that combines graph signal filtering with deep feature learning. It utilizes interpretable analytical low-pass graph filters and employs 80% fewer network parameters than state-of-the-art DL denoising scheme DnCNN. Experimental results show that in the case of statistical mistmatch, this method outperformed DnCNN by up to 3dB in PSNR.
